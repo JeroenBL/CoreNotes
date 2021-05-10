@@ -1,0 +1,12 @@
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\bin\Release\CoreNotesLib.dll
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\bin\Release\CoreNotesLib.pdb
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\bin\Release\Dapper.dll
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\bin\Release\System.Data.SQLite.dll
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\bin\Release\Dapper.xml
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\bin\Release\System.Data.SQLite.xml
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\bin\Release\System.Data.SQLite.dll.config
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\obj\Release\CoreNotesLib.csprojAssemblyReference.cache
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\obj\Release\CoreNotesLib.csproj.CoreCompileInputs.cache
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\obj\Release\CoreNotesLib.csproj.CopyComplete
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\obj\Release\CoreNotesLib.dll
+D:\Data\Code\CSharp\Projecten\CoreNotes\CoreNotesLib\obj\Release\CoreNotesLib.pdb
